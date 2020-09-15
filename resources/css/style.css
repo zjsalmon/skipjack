@@ -1,0 +1,10 @@
+body{
+    background-color: tan;
+    text-align: center;
+    font-family: Garamond, Georgia, Times, serif;
+}   
+img{
+  border: 1px solid black;
+  border-radius: 4px;
+  width: 600px;
+}
